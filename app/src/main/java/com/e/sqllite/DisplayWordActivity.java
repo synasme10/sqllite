@@ -46,3 +46,4 @@ public class DisplayWordActivity extends AppCompatActivity {
         lstword.setAdapter(stringArrayAdapter);
     }
 }
+
